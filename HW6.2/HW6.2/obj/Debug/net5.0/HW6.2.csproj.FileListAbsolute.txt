@@ -1,0 +1,16 @@
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\HW6.2.exe
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\HW6.2.deps.json
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\HW6.2.runtimeconfig.json
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\HW6.2.runtimeconfig.dev.json
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\HW6.2.dll
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\ref\HW6.2.dll
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\bin\Debug\net5.0\HW6.2.pdb
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.csproj.AssemblyReference.cache
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.AssemblyInfoInputs.cache
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.AssemblyInfo.cs
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.csproj.CoreCompileInputs.cache
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.dll
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\ref\HW6.2.dll
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.pdb
+D:\School GB\basick C#\lesson 6\Home Work 6\HW6.2\HW6.2\obj\Debug\net5.0\HW6.2.genruntimeconfig.cache
